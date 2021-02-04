@@ -1,5 +1,5 @@
 # NoteTakingApp
-A note-taking application is a simple website that allows user to use the browser's local storage to store the data and was developed using Javascript.
+# A note-taking application is a simple website that allows user to use the browser's local storage to store the data and was developed using Javascript.
 The application supports the following features:
 a. Add a new note to the application.
 b. Allows to filters notes using keywords.
