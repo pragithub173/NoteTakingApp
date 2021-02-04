@@ -4,5 +4,5 @@ The application supports the following features:
 <br />a. Add a new note to the application.
 <br />b. Allows to filters notes using keywords.
 <br />c. Notes can be sorted in alphabetical order, by last edited and recently created.
-<br />d. Users can click on the note and edit its details.
+<br />d. Users can click on the exisiting note and edit its details.
 <br />e. Delete the note.
